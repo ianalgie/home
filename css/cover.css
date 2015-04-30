@@ -161,3 +161,8 @@ body {
     width: 700px;
   }
 }
+
+.inner a {
+	padding: 0 10px 0 10px;
+	text-decoration: none;
+}
